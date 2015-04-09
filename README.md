@@ -15,3 +15,8 @@
 * b6e443c921e2a0020f26f6bdc28f1283 - dbg_amd64.msi
 * 3a930d30c0d45f8e5eb84ae6dc4627a3 - dbg_ia64.msi
 * ec4287da355dd681d1f2df5625a6e60d - dbg_x86.msi
+
+## windbg
+* windbg/8.1-update/Arm Debuggers And Tools-arm_en-us.msi- 05757d94237e6b4001c88dfc428fc32c
+* windbg/8.1-update/X64 Debuggers And Tools-x64_en-us.msi - 2d4682b92db45137ce03c2d7eaf76500
+* windbg/8.1-update/X86 Debuggers And Tools-x86_en-us.msi - 92e4a7dfe2a1a6aaf31df39f146fc3bc
